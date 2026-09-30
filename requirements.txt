@@ -1,0 +1,9 @@
+pandas
+odfpy
+openpyxl
+lxml
+python-docx
+docxcompose
+streamlit
+plotly
+matplotlib
